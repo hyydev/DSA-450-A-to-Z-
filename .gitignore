@@ -1,0 +1,10 @@
+# Ignore executable files
+*.exe
+*.out
+*.o
+
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
