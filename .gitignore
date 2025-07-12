@@ -2,6 +2,10 @@
 *.exe
 *.out
 *.o
+*.txt 
+input.txt
+output.txt
+
 
 # VSCode settings
 .vscode/
